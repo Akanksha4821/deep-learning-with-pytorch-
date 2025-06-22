@@ -27,5 +27,11 @@ This repository tracks my practical learning of PyTorch — with well-commented 
 
 ---
 
+## Notebooks
+
+- [Chapter 0: PyTorch Fundamentals](00_pytorch_fundamentals.ipynb)
+- [Chapter 1: PyTorch Workflow](01_pytorch_workflow.ipynb)
+
+
 ## 📫 Connect With Me: **Email**: akankshaj2002@gmail.com  
 

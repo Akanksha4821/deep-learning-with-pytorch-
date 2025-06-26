@@ -1,57 +1,59 @@
-🧠 PyTorch Learning Journey
+# 🧠 PyTorch Learning Journey
 
-This repository tracks my practical learning of PyTorch — with well-commented notebooks, built from scratch to understand tensors, model building, training workflows, and evaluation.
+Welcome to my PyTorch notebook series — a hands-on learning journey where I explore key deep learning concepts from scratch using PyTorch. Every notebook includes step-by-step explanations, custom code, and visualizations to make learning transparent and intuitive.
 
-> 📚 **Credits**: This learning journey is based on [Daniel Bourke's PyTorch Deep Learning course](https://github.com/mrdbourke/pytorch-deep-learning).  
-> I've adapted the content, added comments, and included personal insights to better understand the material.  
-> All credit for the original structure and explanation goes to Daniel Bourke — licensed under MIT.
+> 💡 **Inspired by:** [Daniel Bourke's PyTorch Deep Learning Course](https://github.com/mrdbourke/pytorch-deep-learning)  
+> Adapted and re-written with personal insights, experiments, and detailed comments.  
+> Licensed under MIT. Credits to the original author.
 
 ---
 
 ## 📘 Completed Modules
 
 ### `00_pytorch_fundamentals.ipynb`
-- What is PyTorch and its uses  
-- Tensor creation, shapes, types  
-- Basic operations & matrix multiplication  
-- Common tensor errors & reshaping  
-- Aggregations, indexing, device handling (CPU/GPU)  
-- NumPy interoperability & reproducibility  
-- Exercises included
+🔹 Introduction to tensors, datatypes, device setup  
+🔹 Tensor operations, reshaping, aggregation  
+🔹 Matrix multiplication & broadcasting  
+🔹 NumPy interoperability, GPU acceleration  
+🔹 Common shape errors explained  
+🔹 Exercises included
 
 ### `01_pytorch_workflow.ipynb`
-- Data preparation & train/test split  
-- Building a linear model with `nn.Module`  
-- Training & testing loops with loss/optimizer  
-- Making predictions (inference)  
-- Saving & loading models  
-- Clean, modular structure + comments throughout
+🔹 Data loading and preprocessing  
+🔹 Building a linear model with `nn.Module`  
+🔹 Loss, optimizer setup, training/testing loops  
+🔹 Inference and model evaluation  
+🔹 Model saving/loading for deployment  
 
 ### `02_pytorch_classification.ipynb`
-- What is a classification problem?  
-- Input/output shapes and preparing datasets  
-- Neural network classification architecture  
-- Turning data into tensors and splitting  
-- Defining a model (manual & `nn.Sequential`)  
-- Loss functions (CrossEntropy), optimizers  
-- Softmax, logits, prediction probabilities  
-- Custom training & testing loops  
-- Visualizing decision boundaries  
-- Understanding activation functions  
-- Binary & multi-class classification in PyTorch  
-- Additional classification evaluation metrics  
+🔹 Binary & multi-class classification with PyTorch  
+🔹 Model architecture (`nn.Sequential` and custom)  
+🔹 Training loop with `CrossEntropyLoss`, accuracy  
+🔹 Softmax, logits, prediction probability  
+🔹 Decision boundary visualization  
+🔹 Activation functions, metrics  
+🔹 Well-commented, beginner-focused examples
 
 ---
 
-## 📔 Notebooks
+## 🗂 Notebook Index
 
-- [Chapter 0: PyTorch Fundamentals](00_pytorch_fundamentals.ipynb)
-- [Chapter 1: PyTorch Workflow](01_pytorch_workflow.ipynb)
-- [Chapter 2: PyTorch Classification](02_pytorch_classification.ipynb)
+- 📒 [Chapter 0: PyTorch Fundamentals](00_pytorch_fundamentals.ipynb)  
+- 📒 [Chapter 1: PyTorch Workflow](01_pytorch_workflow.ipynb)  
+- 📒 [Chapter 2: Classification in PyTorch](02_pytorch_classification.ipynb)
 
 ---
 
-"This repository contains beginner-friendly, well-commented notebooks to help you learn PyTorch from scratch."
+## 🌱 About This Repo
 
-## 📫 Connect With Me  
-**Email**: akankshaj2002@gmail.com
+This repository is a part of my ML/Deep Learning growth — documenting core PyTorch concepts through practical notebooks. The goal is not just to implement, but to **understand every line of code** and make learning reproducible for others.
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email**: akankshaj2002@gmail.com  
+
+---
+
+> 🧠 *“Learning by building, understanding by teaching — this repo is my open notebook.”*

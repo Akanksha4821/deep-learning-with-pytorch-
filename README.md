@@ -36,8 +36,7 @@ Welcome to my PyTorch notebook series — a hands-on learning journey where I ex
 
 ### `03_pytorch_computer_vision.ipynb`
 🔹 Introduction to computer vision workflows in PyTorch  
-🔹 Exploring image datasets and visualizing samples  
-🔹 Creating custom datasets using `torch.utils.data.Dataset`  
+🔹 Exploring and visualizing the FashionMNIST dataset  
 🔹 Efficient data loading with `DataLoader`  
 🔹 Building and training multiple models:
   - Model 0: Baseline Linear Model  
@@ -46,6 +45,7 @@ Welcome to my PyTorch notebook series — a hands-on learning journey where I ex
 🔹 Loss/optimizer setup, device-agnostic training (CPU/GPU)  
 🔹 Evaluation metrics, prediction visualization, confusion matrix  
 🔹 Saving and loading the best performing model
+
 
 ---
 

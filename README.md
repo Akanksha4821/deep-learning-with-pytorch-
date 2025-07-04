@@ -34,6 +34,19 @@ Welcome to my PyTorch notebook series — a hands-on learning journey where I ex
 🔹 Activation functions, metrics  
 🔹 Well-commented, beginner-focused examples
 
+### `03_pytorch_computer_vision.ipynb`
+🔹 Introduction to computer vision workflows in PyTorch  
+🔹 Exploring image datasets and visualizing samples  
+🔹 Creating custom datasets using `torch.utils.data.Dataset`  
+🔹 Efficient data loading with `DataLoader`  
+🔹 Building and training multiple models:
+  - Model 0: Baseline Linear Model  
+  - Model 1: Model with Non-Linearity  
+  - Model 2: CNN-based Classifier  
+🔹 Loss/optimizer setup, device-agnostic training (CPU/GPU)  
+🔹 Evaluation metrics, prediction visualization, confusion matrix  
+🔹 Saving and loading the best performing model
+
 ---
 
 ## 🗂 Notebook Index
@@ -41,6 +54,7 @@ Welcome to my PyTorch notebook series — a hands-on learning journey where I ex
 - 📒 [Chapter 0: PyTorch Fundamentals](00_pytorch_fundamentals.ipynb)  
 - 📒 [Chapter 1: PyTorch Workflow](01_pytorch_workflow.ipynb)  
 - 📒 [Chapter 2: Classification in PyTorch](02_pytorch_classification.ipynb)
+- 📒 [Chapter 3: Computer Vision in PyTorch](03_pytorch_computer_vision.ipynb)
 
 ---
 
@@ -56,4 +70,3 @@ This repository is a part of my ML/Deep Learning growth — documenting core PyT
 
 ---
 
-> 🧠 *“Learning by building, understanding by teaching — this repo is my open notebook.”*

@@ -65,7 +65,7 @@ Welcome to my PyTorch notebook series — a hands-on learning journey where I ex
 - 📒 [Chapter 1: PyTorch Workflow](01_pytorch_workflow.ipynb)  
 - 📒 [Chapter 2: Classification in PyTorch](02_pytorch_classification.ipynb)  
 - 📒 [Chapter 3: Computer Vision in PyTorch](03_pytorch_computer_vision.ipynb)  
-- 📒 [Chapter 4: Custom Datasets in PyTorch](04_pytorch_custom_datasets.ipynb)
+- 📒 [Chapter 4: Custom Datasets in PyTorch](04_pytorch_custom_dataset.ipynb)
 
 ---
 

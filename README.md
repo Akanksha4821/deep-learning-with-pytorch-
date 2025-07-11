@@ -46,6 +46,16 @@ Welcome to my PyTorch notebook series — a hands-on learning journey where I ex
 🔹 Evaluation metrics, prediction visualization, confusion matrix  
 🔹 Saving and loading the best performing model
 
+### `04_pytorch_custom_datasets.ipynb`
+🔹 Downloading and organizing a custom image dataset (pizza, steak, sushi 🍕🥩🍣)  
+🔹 Building a PyTorch-compatible dataset structure from scratch  
+🔹 Creating custom `Dataset` class using `torch.utils.data.Dataset`  
+🔹 Manual image-path and label mapping  
+🔹 Applying image transforms and data augmentation  
+🔹 Loading custom dataset with `DataLoader`  
+🔹 Building and training a TinyVGG CNN on custom data  
+🔹 Diagnosing overfitting/underfitting using train/test loss curves  
+🔹 Predicting on custom images with trained models
 
 ---
 
@@ -53,8 +63,9 @@ Welcome to my PyTorch notebook series — a hands-on learning journey where I ex
 
 - 📒 [Chapter 0: PyTorch Fundamentals](00_pytorch_fundamentals.ipynb)  
 - 📒 [Chapter 1: PyTorch Workflow](01_pytorch_workflow.ipynb)  
-- 📒 [Chapter 2: Classification in PyTorch](02_pytorch_classification.ipynb)
-- 📒 [Chapter 3: Computer Vision in PyTorch](03_pytorch_computer_vision.ipynb)
+- 📒 [Chapter 2: Classification in PyTorch](02_pytorch_classification.ipynb)  
+- 📒 [Chapter 3: Computer Vision in PyTorch](03_pytorch_computer_vision.ipynb)  
+- 📒 [Chapter 4: Custom Datasets in PyTorch](04_pytorch_custom_datasets.ipynb)
 
 ---
 
@@ -67,6 +78,3 @@ This repository is a part of my ML/Deep Learning growth — documenting core PyT
 ## 📫 Connect With Me
 
 📧 **Email**: akankshaj2002@gmail.com  
-
----
-

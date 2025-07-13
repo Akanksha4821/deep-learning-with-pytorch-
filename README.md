@@ -1,12 +1,10 @@
-# 🧠 PyTorch Learning Journey
+#  Deep Learning with PyTorch
 
-Welcome to my PyTorch notebook series — a hands-on learning journey where I explore key deep learning concepts from scratch using PyTorch. Every notebook includes step-by-step explanations, custom code, and visualizations to make learning transparent and intuitive.
+Welcome to my PyTorch notebook series — a hands-on learning journey where I explore foundational deep learning concepts using PyTorch. Each notebook includes step-by-step explanations, custom code, and visualizations to reinforce understanding.
 
-> 💡 **Inspired by:** [Daniel Bourke's PyTorch Deep Learning Course](https://github.com/mrdbourke/pytorch-deep-learning)  
-> Adapted and re-written with personal insights, experiments, and detailed comments.  
-> Licensed under MIT. Credits to the original author.
+>  **Note:** This series follows the [Zero to Mastery: PyTorch for Deep Learning](https://www.learnpytorch.io/) course by Daniel Bourke. The code and explanations are adapted from the course and extended with my own notes, experiments, and interpretations as I learn.  
 
----
+
 
 ## 📘 Completed Modules
 

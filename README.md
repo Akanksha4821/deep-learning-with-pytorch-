@@ -58,15 +58,24 @@ Welcome to my PyTorch notebook series — a hands-on learning journey where I ex
 
 ### '05_pytorch_going_modular.ipynb'
 🔹 Convert exploratory notebook cells into clean, reusable .py scripts
+
 🔹 Understand cell mode vs. script mode and when to use each
+
 🔹 Design a modular PyTorch project structure:
    • data_setup.py → Dataset preparation & DataLoader creation
+   
    • model_builder.py → Model architectures
+   
    • engine.py → Training & evaluation loops
+   
    • utils.py → Model saving/loading & helper functions
+   
    • train.py → Orchestrates the entire training process
+   
 🔹 Benefits of modularity: improved readability, maintainability, and reproducibility
+
 🔹 Write scripts that can be run from CLI or imported into notebooks
+
 🔹 Step-by-step migration of code from 04. PyTorch Custom Datasets into modules
 
 ---
